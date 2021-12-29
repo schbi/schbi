@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @schbi
 - ❤️ I love typescript/react/nextjs/nestjs
-- 🔨 I am currentyl working as a web developer at [Bela](https://bela.de)
+- 🔨 I am currently working as a web developer at [Bela](https://bela.de)
